@@ -1,0 +1,960 @@
+
+=== Problema: a280.tsp ===
+[NearestNeighbor               ] Solução Inicial: 3324.59
+	-> LinKernighanHeuristic     | SE: 2879.81 | Desvio: 0.00% | Tempo: 13 ms
+	-> Opt2                      | SE: 2884.68 | Desvio: 0.00% | Tempo: 195 ms
+	-> Opt3                      | SE: 3130.30 | Desvio: 0.00% | Tempo: 10063 ms
+	-> OptOr                     | SE: 2880.54 | Desvio: 0.00% | Tempo: 3271 ms
+	-> OptK                      | SE: 3324.59 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 32320.97
+	-> LinKernighanHeuristic     | SE: 2926.82 | Desvio: 0.00% | Tempo: 2 ms
+	-> Opt2                      | SE: 2937.91 | Desvio: 0.00% | Tempo: 191 ms
+	-> Opt3                      | SE: 2903.15 | Desvio: 0.00% | Tempo: 20178 ms
+	-> OptOr                     | SE: 3265.26 | Desvio: 0.00% | Tempo: 16099 ms
+	-> OptK                      | SE: 32320.97 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 2962.64
+	-> LinKernighanHeuristic     | SE: 2952.67 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2929.40 | Desvio: 0.00% | Tempo: 95 ms
+	-> Opt3                      | SE: 2952.68 | Desvio: 0.00% | Tempo: 7522 ms
+	-> OptOr                     | SE: 2809.01 | Desvio: 0.00% | Tempo: 1945 ms
+	-> OptK                      | SE: 2962.64 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 3071.85
+	-> LinKernighanHeuristic     | SE: 2946.74 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2897.56 | Desvio: 0.00% | Tempo: 128 ms
+	-> Opt3                      | SE: 2914.47 | Desvio: 0.00% | Tempo: 10038 ms
+	-> OptOr                     | SE: 2815.43 | Desvio: 0.00% | Tempo: 2876 ms
+	-> OptK                      | SE: 3071.85 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 3781.94
+	-> LinKernighanHeuristic     | SE: 2914.60 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2899.19 | Desvio: 0.00% | Tempo: 191 ms
+	-> Opt3                      | SE: 2955.67 | Desvio: 0.00% | Tempo: 20058 ms
+	-> OptOr                     | SE: 3043.11 | Desvio: 0.00% | Tempo: 5456 ms
+	-> OptK                      | SE: 3781.94 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: bier127.tsp ===
+[NearestNeighbor               ] Solução Inicial: 135098.70
+	-> LinKernighanHeuristic     | SE: 124973.92 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 124973.92 | Desvio: 0.00% | Tempo: 13 ms
+	-> Opt3                      | SE: 129692.59 | Desvio: 0.00% | Tempo: 606 ms
+	-> OptOr                     | SE: 121275.43 | Desvio: 0.00% | Tempo: 203 ms
+	-> OptK                      | SE: 135098.70 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 623149.65
+	-> LinKernighanHeuristic     | SE: 127069.82 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 127583.49 | Desvio: 0.00% | Tempo: 19 ms
+	-> Opt3                      | SE: 137120.38 | Desvio: 0.00% | Tempo: 605 ms
+	-> OptOr                     | SE: 131671.80 | Desvio: 0.00% | Tempo: 664 ms
+	-> OptK                      | SE: 623149.65 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 129535.48
+	-> LinKernighanHeuristic     | SE: 129535.48 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 129535.48 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 127614.80 | Desvio: 0.00% | Tempo: 726 ms
+	-> OptOr                     | SE: 123736.05 | Desvio: 0.00% | Tempo: 100 ms
+	-> OptK                      | SE: 129535.48 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 138341.60
+	-> LinKernighanHeuristic     | SE: 136215.72 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 135174.21 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 135881.09 | Desvio: 0.00% | Tempo: 848 ms
+	-> OptOr                     | SE: 127445.49 | Desvio: 0.00% | Tempo: 110 ms
+	-> OptK                      | SE: 138341.60 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 157605.76
+	-> LinKernighanHeuristic     | SE: 128095.86 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 128095.86 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 134868.97 | Desvio: 0.00% | Tempo: 726 ms
+	-> OptOr                     | SE: 128986.37 | Desvio: 0.00% | Tempo: 340 ms
+	-> OptK                      | SE: 157605.76 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: ch130.tsp ===
+[NearestNeighbor               ] Solução Inicial: 7575.29
+	-> LinKernighanHeuristic     | SE: 6741.95 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 6626.99 | Desvio: 0.00% | Tempo: 17 ms
+	-> Opt3                      | SE: 6741.39 | Desvio: 0.00% | Tempo: 1193 ms
+	-> OptOr                     | SE: 6900.38 | Desvio: 0.00% | Tempo: 178 ms
+	-> OptK                      | SE: 7575.29 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 46753.14
+	-> LinKernighanHeuristic     | SE: 6770.86 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 6563.99 | Desvio: 0.00% | Tempo: 25 ms
+	-> Opt3                      | SE: 7152.64 | Desvio: 0.00% | Tempo: 666 ms
+	-> OptOr                     | SE: 7280.24 | Desvio: 0.00% | Tempo: 605 ms
+	-> OptK                      | SE: 46142.34 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 6493.75
+	-> LinKernighanHeuristic     | SE: 6485.60 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 6485.60 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 6493.75 | Desvio: 0.00% | Tempo: 132 ms
+	-> OptOr                     | SE: 6352.58 | Desvio: 0.00% | Tempo: 59 ms
+	-> OptK                      | SE: 6493.75 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 7200.01
+	-> LinKernighanHeuristic     | SE: 6887.28 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 6865.66 | Desvio: 0.00% | Tempo: 11 ms
+	-> Opt3                      | SE: 6864.51 | Desvio: 0.00% | Tempo: 531 ms
+	-> OptOr                     | SE: 6562.30 | Desvio: 0.00% | Tempo: 229 ms
+	-> OptK                      | SE: 7200.01 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 8128.76
+	-> LinKernighanHeuristic     | SE: 6761.17 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 6712.19 | Desvio: 0.00% | Tempo: 16 ms
+	-> Opt3                      | SE: 6664.00 | Desvio: 0.00% | Tempo: 796 ms
+	-> OptOr                     | SE: 7006.10 | Desvio: 0.00% | Tempo: 350 ms
+	-> OptK                      | SE: 8128.76 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: ch150.tsp ===
+[NearestNeighbor               ] Solução Inicial: 8194.61
+	-> LinKernighanHeuristic     | SE: 6665.32 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 6662.69 | Desvio: 0.00% | Tempo: 26 ms
+	-> Opt3                      | SE: 7382.81 | Desvio: 0.00% | Tempo: 690 ms
+	-> OptOr                     | SE: 7094.48 | Desvio: 0.00% | Tempo: 252 ms
+	-> OptK                      | SE: 8194.61 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 52559.65
+	-> LinKernighanHeuristic     | SE: 7575.61 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 7663.71 | Desvio: 0.00% | Tempo: 25 ms
+	-> Opt3                      | SE: 7448.42 | Desvio: 0.00% | Tempo: 1606 ms
+	-> OptOr                     | SE: 7489.87 | Desvio: 0.00% | Tempo: 1161 ms
+	-> OptK                      | SE: 52430.89 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 7212.42
+	-> LinKernighanHeuristic     | SE: 7150.48 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 7150.48 | Desvio: 0.00% | Tempo: 15 ms
+	-> Opt3                      | SE: 7152.66 | Desvio: 0.00% | Tempo: 461 ms
+	-> OptOr                     | SE: 6934.70 | Desvio: 0.00% | Tempo: 103 ms
+	-> OptK                      | SE: 7212.42 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 8048.36
+	-> LinKernighanHeuristic     | SE: 7509.89 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 7485.94 | Desvio: 0.00% | Tempo: 16 ms
+	-> Opt3                      | SE: 7550.14 | Desvio: 0.00% | Tempo: 919 ms
+	-> OptOr                     | SE: 7045.04 | Desvio: 0.00% | Tempo: 336 ms
+	-> OptK                      | SE: 8048.36 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 8333.47
+	-> LinKernighanHeuristic     | SE: 7005.31 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 7131.18 | Desvio: 0.00% | Tempo: 26 ms
+	-> Opt3                      | SE: 7202.82 | Desvio: 0.00% | Tempo: 689 ms
+	-> OptOr                     | SE: 7138.76 | Desvio: 0.00% | Tempo: 494 ms
+	-> OptK                      | SE: 8333.47 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: d198.tsp ===
+[NearestNeighbor               ] Solução Inicial: 18585.12
+	-> LinKernighanHeuristic     | SE: 16363.13 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 16816.12 | Desvio: 0.00% | Tempo: 57 ms
+	-> Opt3                      | SE: 17258.92 | Desvio: 0.00% | Tempo: 3330 ms
+	-> OptOr                     | SE: 17465.07 | Desvio: 0.00% | Tempo: 830 ms
+	-> OptK                      | SE: 18585.12 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 183984.29
+	-> LinKernighanHeuristic     | SE: 16479.69 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 16467.02 | Desvio: 0.00% | Tempo: 92 ms
+	-> Opt3                      | SE: 17625.87 | Desvio: 0.00% | Tempo: 4659 ms
+	-> OptOr                     | SE: 21630.38 | Desvio: 0.00% | Tempo: 3862 ms
+	-> OptK                      | SE: 183984.29 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 16191.49
+	-> LinKernighanHeuristic     | SE: 16101.84 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 16102.86 | Desvio: 0.00% | Tempo: 24 ms
+	-> Opt3                      | SE: 16189.61 | Desvio: 0.00% | Tempo: 1332 ms
+	-> OptOr                     | SE: 15949.24 | Desvio: 0.00% | Tempo: 236 ms
+	-> OptK                      | SE: 16191.49 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 17873.63
+	-> LinKernighanHeuristic     | SE: 17293.62 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 17367.31 | Desvio: 0.00% | Tempo: 34 ms
+	-> Opt3                      | SE: 17624.70 | Desvio: 0.00% | Tempo: 2663 ms
+	-> OptOr                     | SE: 17005.49 | Desvio: 0.00% | Tempo: 639 ms
+	-> OptK                      | SE: 17873.63 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 19261.97
+	-> LinKernighanHeuristic     | SE: 16524.81 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 16359.54 | Desvio: 0.00% | Tempo: 58 ms
+	-> Opt3                      | SE: 17065.97 | Desvio: 0.00% | Tempo: 4002 ms
+	-> OptOr                     | SE: 16735.18 | Desvio: 0.00% | Tempo: 1347 ms
+	-> OptK                      | SE: 19261.97 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: eil101.tsp ===
+[NearestNeighbor               ] Solução Inicial: 892.22
+	-> LinKernighanHeuristic     | SE: 707.74 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 681.78 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 745.06 | Desvio: 0.00% | Tempo: 202 ms
+	-> OptOr                     | SE: 736.59 | Desvio: 0.00% | Tempo: 180 ms
+	-> OptK                      | SE: 892.22 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 3533.79
+	-> LinKernighanHeuristic     | SE: 704.66 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 704.66 | Desvio: 0.00% | Tempo: 8 ms
+	-> Opt3                      | SE: 727.34 | Desvio: 0.00% | Tempo: 253 ms
+	-> OptOr                     | SE: 670.61 | Desvio: 0.00% | Tempo: 150 ms
+	-> OptK                      | SE: 3510.74 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 701.42
+	-> LinKernighanHeuristic     | SE: 698.23 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 698.23 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 693.76 | Desvio: 0.00% | Tempo: 100 ms
+	-> OptOr                     | SE: 670.67 | Desvio: 0.00% | Tempo: 39 ms
+	-> OptK                      | SE: 701.42 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 703.58
+	-> LinKernighanHeuristic     | SE: 679.69 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 683.55 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 696.44 | Desvio: 0.00% | Tempo: 100 ms
+	-> OptOr                     | SE: 672.49 | Desvio: 0.00% | Tempo: 39 ms
+	-> OptK                      | SE: 703.58 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 832.22
+	-> LinKernighanHeuristic     | SE: 673.99 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 677.43 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 727.70 | Desvio: 0.00% | Tempo: 203 ms
+	-> OptOr                     | SE: 680.20 | Desvio: 0.00% | Tempo: 111 ms
+	-> OptK                      | SE: 832.22 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: gil262.tsp ===
+[NearestNeighbor               ] Solução Inicial: 3004.95
+	-> LinKernighanHeuristic     | SE: 2589.10 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2571.94 | Desvio: 0.00% | Tempo: 159 ms
+	-> Opt3                      | SE: 2655.19 | Desvio: 0.00% | Tempo: 9722 ms
+	-> OptOr                     | SE: 2555.63 | Desvio: 0.00% | Tempo: 4068 ms
+	-> OptK                      | SE: 3004.95 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 26180.29
+	-> LinKernighanHeuristic     | SE: 2688.76 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2650.12 | Desvio: 0.00% | Tempo: 158 ms
+	-> Opt3                      | SE: 2678.55 | Desvio: 0.00% | Tempo: 15586 ms
+	-> OptOr                     | SE: 3008.67 | Desvio: 0.00% | Tempo: 10036 ms
+	-> OptK                      | SE: 25996.08 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 2639.20
+	-> LinKernighanHeuristic     | SE: 2603.70 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 2603.70 | Desvio: 0.00% | Tempo: 79 ms
+	-> Opt3                      | SE: 2624.59 | Desvio: 0.00% | Tempo: 5837 ms
+	-> OptOr                     | SE: 2534.08 | Desvio: 0.00% | Tempo: 1501 ms
+	-> OptK                      | SE: 2639.20 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 2825.13
+	-> LinKernighanHeuristic     | SE: 2659.93 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 2648.69 | Desvio: 0.00% | Tempo: 106 ms
+	-> Opt3                      | SE: 2695.68 | Desvio: 0.00% | Tempo: 7780 ms
+	-> OptOr                     | SE: 2570.68 | Desvio: 0.00% | Tempo: 2672 ms
+	-> OptK                      | SE: 2825.13 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 3358.15
+	-> LinKernighanHeuristic     | SE: 2737.98 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2692.41 | Desvio: 0.00% | Tempo: 158 ms
+	-> Opt3                      | SE: 2792.04 | Desvio: 0.00% | Tempo: 9734 ms
+	-> OptOr                     | SE: 2769.85 | Desvio: 0.00% | Tempo: 4914 ms
+	-> OptK                      | SE: 3358.15 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroA100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 26856.39
+	-> LinKernighanHeuristic     | SE: 22955.91 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22831.11 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 23619.16 | Desvio: 0.00% | Tempo: 340 ms
+	-> OptOr                     | SE: 23647.64 | Desvio: 0.00% | Tempo: 94 ms
+	-> OptK                      | SE: 26856.39 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 166045.98
+	-> LinKernighanHeuristic     | SE: 24552.71 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 24552.71 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 23898.74 | Desvio: 0.00% | Tempo: 292 ms
+	-> OptOr                     | SE: 23556.62 | Desvio: 0.00% | Tempo: 199 ms
+	-> OptK                      | SE: 163866.63 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 23358.28
+	-> LinKernighanHeuristic     | SE: 23026.65 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23026.65 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 22151.09 | Desvio: 0.00% | Tempo: 388 ms
+	-> OptOr                     | SE: 22180.87 | Desvio: 0.00% | Tempo: 61 ms
+	-> OptK                      | SE: 23358.28 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 24299.51
+	-> LinKernighanHeuristic     | SE: 22565.82 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22565.82 | Desvio: 0.00% | Tempo: 5 ms
+	-> Opt3                      | SE: 24291.96 | Desvio: 0.00% | Tempo: 96 ms
+	-> OptOr                     | SE: 21373.68 | Desvio: 0.00% | Tempo: 46 ms
+	-> OptK                      | SE: 24299.51 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 27211.68
+	-> LinKernighanHeuristic     | SE: 22510.21 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23348.71 | Desvio: 0.00% | Tempo: 5 ms
+	-> Opt3                      | SE: 24990.25 | Desvio: 0.00% | Tempo: 147 ms
+	-> OptOr                     | SE: 23741.46 | Desvio: 0.00% | Tempo: 97 ms
+	-> OptK                      | SE: 27211.68 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroA150.tsp ===
+[NearestNeighbor               ] Solução Inicial: 33609.87
+	-> LinKernighanHeuristic     | SE: 28970.17 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 29305.30 | Desvio: 0.00% | Tempo: 26 ms
+	-> Opt3                      | SE: 30089.94 | Desvio: 0.00% | Tempo: 919 ms
+	-> OptOr                     | SE: 29920.11 | Desvio: 0.00% | Tempo: 464 ms
+	-> OptK                      | SE: 33609.87 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 246285.02
+	-> LinKernighanHeuristic     | SE: 28517.79 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 29155.96 | Desvio: 0.00% | Tempo: 31 ms
+	-> Opt3                      | SE: 30675.42 | Desvio: 0.00% | Tempo: 1149 ms
+	-> OptOr                     | SE: 32593.34 | Desvio: 0.00% | Tempo: 1010 ms
+	-> OptK                      | SE: 246285.02 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 28657.77
+	-> LinKernighanHeuristic     | SE: 28645.36 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 28645.36 | Desvio: 0.00% | Tempo: 11 ms
+	-> Opt3                      | SE: 28584.28 | Desvio: 0.00% | Tempo: 460 ms
+	-> OptOr                     | SE: 28209.52 | Desvio: 0.00% | Tempo: 76 ms
+	-> OptK                      | SE: 28657.77 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 30931.41
+	-> LinKernighanHeuristic     | SE: 29136.75 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 29522.51 | Desvio: 0.00% | Tempo: 21 ms
+	-> Opt3                      | SE: 29658.50 | Desvio: 0.00% | Tempo: 460 ms
+	-> OptOr                     | SE: 28754.87 | Desvio: 0.00% | Tempo: 246 ms
+	-> OptK                      | SE: 30931.41 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 35122.57
+	-> LinKernighanHeuristic     | SE: 28627.40 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 28585.44 | Desvio: 0.00% | Tempo: 26 ms
+	-> Opt3                      | SE: 29671.19 | Desvio: 0.00% | Tempo: 917 ms
+	-> OptOr                     | SE: 28996.78 | Desvio: 0.00% | Tempo: 421 ms
+	-> OptK                      | SE: 35122.57 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroA200.tsp ===
+[NearestNeighbor               ] Solução Inicial: 35798.41
+	-> LinKernighanHeuristic     | SE: 30056.67 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 30056.67 | Desvio: 0.00% | Tempo: 48 ms
+	-> Opt3                      | SE: 32434.45 | Desvio: 0.00% | Tempo: 2077 ms
+	-> OptOr                     | SE: 31693.18 | Desvio: 0.00% | Tempo: 1507 ms
+	-> OptK                      | SE: 35798.41 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 338062.73
+	-> LinKernighanHeuristic     | SE: 33153.49 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 33153.49 | Desvio: 0.00% | Tempo: 83 ms
+	-> Opt3                      | SE: 33609.08 | Desvio: 0.00% | Tempo: 4156 ms
+	-> OptOr                     | SE: 34514.57 | Desvio: 0.00% | Tempo: 2927 ms
+	-> OptK                      | SE: 332691.67 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 31951.47
+	-> LinKernighanHeuristic     | SE: 31770.70 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 31770.70 | Desvio: 0.00% | Tempo: 36 ms
+	-> Opt3                      | SE: 31926.06 | Desvio: 0.00% | Tempo: 1387 ms
+	-> OptOr                     | SE: 30753.73 | Desvio: 0.00% | Tempo: 292 ms
+	-> OptK                      | SE: 31951.47 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 34194.93
+	-> LinKernighanHeuristic     | SE: 32112.56 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 32131.42 | Desvio: 0.00% | Tempo: 60 ms
+	-> Opt3                      | SE: 32204.69 | Desvio: 0.00% | Tempo: 3467 ms
+	-> OptOr                     | SE: 31170.82 | Desvio: 0.00% | Tempo: 822 ms
+	-> OptK                      | SE: 34194.93 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 40030.87
+	-> LinKernighanHeuristic     | SE: 31616.43 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 31616.43 | Desvio: 0.00% | Tempo: 59 ms
+	-> Opt3                      | SE: 32664.43 | Desvio: 0.00% | Tempo: 3467 ms
+	-> OptOr                     | SE: 32975.46 | Desvio: 0.00% | Tempo: 1884 ms
+	-> OptK                      | SE: 40030.87 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroB100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 29155.04
+	-> LinKernighanHeuristic     | SE: 22774.01 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22919.06 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 25203.76 | Desvio: 0.00% | Tempo: 292 ms
+	-> OptOr                     | SE: 25830.87 | Desvio: 0.00% | Tempo: 63 ms
+	-> OptK                      | SE: 29155.04 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 178823.40
+	-> LinKernighanHeuristic     | SE: 24073.30 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 24073.30 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 25261.52 | Desvio: 0.00% | Tempo: 194 ms
+	-> OptOr                     | SE: 24256.78 | Desvio: 0.00% | Tempo: 232 ms
+	-> OptK                      | SE: 177412.41 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 23222.08
+	-> LinKernighanHeuristic     | SE: 23135.68 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23135.68 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 23222.08 | Desvio: 0.00% | Tempo: 49 ms
+	-> OptOr                     | SE: 22796.73 | Desvio: 0.00% | Tempo: 16 ms
+	-> OptK                      | SE: 23222.08 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 26078.62
+	-> LinKernighanHeuristic     | SE: 24480.30 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 24810.82 | Desvio: 0.00% | Tempo: 5 ms
+	-> Opt3                      | SE: 25116.82 | Desvio: 0.00% | Tempo: 146 ms
+	-> OptOr                     | SE: 23787.88 | Desvio: 0.00% | Tempo: 57 ms
+	-> OptK                      | SE: 26078.62 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 25881.20
+	-> LinKernighanHeuristic     | SE: 23723.37 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23328.75 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 24811.72 | Desvio: 0.00% | Tempo: 147 ms
+	-> OptOr                     | SE: 22781.73 | Desvio: 0.00% | Tempo: 70 ms
+	-> OptK                      | SE: 25881.20 | Desvio: 0.00% | Tempo: 1 ms
+
+=== Problema: kroB150.tsp ===
+[NearestNeighbor               ] Solução Inicial: 32825.75
+	-> LinKernighanHeuristic     | SE: 27993.86 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 27977.86 | Desvio: 0.00% | Tempo: 20 ms
+	-> Opt3                      | SE: 28421.91 | Desvio: 0.00% | Tempo: 1381 ms
+	-> OptOr                     | SE: 28440.23 | Desvio: 0.00% | Tempo: 398 ms
+	-> OptK                      | SE: 32825.75 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 241570.94
+	-> LinKernighanHeuristic     | SE: 28980.12 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 28561.21 | Desvio: 0.00% | Tempo: 35 ms
+	-> Opt3                      | SE: 29856.00 | Desvio: 0.00% | Tempo: 1379 ms
+	-> OptOr                     | SE: 29884.57 | Desvio: 0.00% | Tempo: 1163 ms
+	-> OptK                      | SE: 238950.34 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 27404.49
+	-> LinKernighanHeuristic     | SE: 27210.11 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 27210.11 | Desvio: 0.00% | Tempo: 15 ms
+	-> Opt3                      | SE: 27404.49 | Desvio: 0.00% | Tempo: 231 ms
+	-> OptOr                     | SE: 26560.41 | Desvio: 0.00% | Tempo: 137 ms
+	-> OptK                      | SE: 27404.49 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 28841.86
+	-> LinKernighanHeuristic     | SE: 28010.66 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 27896.06 | Desvio: 0.00% | Tempo: 15 ms
+	-> Opt3                      | SE: 28415.10 | Desvio: 0.00% | Tempo: 920 ms
+	-> OptOr                     | SE: 27069.94 | Desvio: 0.00% | Tempo: 220 ms
+	-> OptK                      | SE: 28841.86 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 36154.73
+	-> LinKernighanHeuristic     | SE: 27958.42 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 27958.42 | Desvio: 0.00% | Tempo: 30 ms
+	-> Opt3                      | SE: 30490.24 | Desvio: 0.00% | Tempo: 1151 ms
+	-> OptOr                     | SE: 30177.13 | Desvio: 0.00% | Tempo: 629 ms
+	-> OptK                      | SE: 36154.73 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroB200.tsp ===
+[NearestNeighbor               ] Solução Inicial: 36981.59
+	-> LinKernighanHeuristic     | SE: 32598.09 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 32195.91 | Desvio: 0.00% | Tempo: 48 ms
+	-> Opt3                      | SE: 34531.31 | Desvio: 0.00% | Tempo: 2773 ms
+	-> OptOr                     | SE: 32583.16 | Desvio: 0.00% | Tempo: 1258 ms
+	-> OptK                      | SE: 36981.59 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 317366.61
+	-> LinKernighanHeuristic     | SE: 32926.03 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 33397.34 | Desvio: 0.00% | Tempo: 60 ms
+	-> Opt3                      | SE: 35182.81 | Desvio: 0.00% | Tempo: 4159 ms
+	-> OptOr                     | SE: 36295.53 | Desvio: 0.00% | Tempo: 3347 ms
+	-> OptK                      | SE: 317366.61 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 31526.56
+	-> LinKernighanHeuristic     | SE: 31405.91 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 31405.91 | Desvio: 0.00% | Tempo: 24 ms
+	-> Opt3                      | SE: 31440.74 | Desvio: 0.00% | Tempo: 1386 ms
+	-> OptOr                     | SE: 30012.44 | Desvio: 0.00% | Tempo: 488 ms
+	-> OptK                      | SE: 31526.56 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 35723.95
+	-> LinKernighanHeuristic     | SE: 33276.78 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 33138.55 | Desvio: 0.00% | Tempo: 60 ms
+	-> Opt3                      | SE: 33357.70 | Desvio: 0.00% | Tempo: 3466 ms
+	-> OptOr                     | SE: 31971.20 | Desvio: 0.00% | Tempo: 1096 ms
+	-> OptK                      | SE: 35723.95 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 40710.96
+	-> LinKernighanHeuristic     | SE: 33363.13 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 33363.13 | Desvio: 0.00% | Tempo: 48 ms
+	-> Opt3                      | SE: 32403.98 | Desvio: 0.00% | Tempo: 2082 ms
+	-> OptOr                     | SE: 33911.12 | Desvio: 0.00% | Tempo: 1954 ms
+	-> OptK                      | SE: 40710.96 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroC100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 26327.36
+	-> LinKernighanHeuristic     | SE: 22533.73 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22533.73 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 24488.30 | Desvio: 0.00% | Tempo: 193 ms
+	-> OptOr                     | SE: 23282.80 | Desvio: 0.00% | Tempo: 101 ms
+	-> OptK                      | SE: 26327.36 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 180048.05
+	-> LinKernighanHeuristic     | SE: 22384.62 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22004.02 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 25490.77 | Desvio: 0.00% | Tempo: 242 ms
+	-> OptOr                     | SE: 22488.13 | Desvio: 0.00% | Tempo: 229 ms
+	-> OptK                      | SE: 180048.05 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 21698.84
+	-> LinKernighanHeuristic     | SE: 21510.20 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 21510.20 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 21529.77 | Desvio: 0.00% | Tempo: 98 ms
+	-> OptOr                     | SE: 20914.79 | Desvio: 0.00% | Tempo: 33 ms
+	-> OptK                      | SE: 21698.84 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 24706.90
+	-> LinKernighanHeuristic     | SE: 24103.70 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23955.02 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 24490.00 | Desvio: 0.00% | Tempo: 145 ms
+	-> OptOr                     | SE: 22733.69 | Desvio: 0.00% | Tempo: 51 ms
+	-> OptK                      | SE: 24706.90 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 27966.54
+	-> LinKernighanHeuristic     | SE: 22510.67 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22510.67 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 23807.77 | Desvio: 0.00% | Tempo: 145 ms
+	-> OptOr                     | SE: 24225.67 | Desvio: 0.00% | Tempo: 104 ms
+	-> OptK                      | SE: 27966.54 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroD100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 26950.46
+	-> LinKernighanHeuristic     | SE: 22804.97 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22718.59 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 25110.89 | Desvio: 0.00% | Tempo: 292 ms
+	-> OptOr                     | SE: 24263.60 | Desvio: 0.00% | Tempo: 101 ms
+	-> OptK                      | SE: 26950.46 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 151962.45
+	-> LinKernighanHeuristic     | SE: 22965.09 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22856.80 | Desvio: 0.00% | Tempo: 8 ms
+	-> Opt3                      | SE: 23373.28 | Desvio: 0.00% | Tempo: 243 ms
+	-> OptOr                     | SE: 23849.70 | Desvio: 0.00% | Tempo: 236 ms
+	-> OptK                      | SE: 151962.45 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 22036.23
+	-> LinKernighanHeuristic     | SE: 21774.91 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 21774.91 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 22036.23 | Desvio: 0.00% | Tempo: 48 ms
+	-> OptOr                     | SE: 21753.11 | Desvio: 0.00% | Tempo: 11 ms
+	-> OptK                      | SE: 22036.23 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 25008.08
+	-> LinKernighanHeuristic     | SE: 23585.01 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23174.38 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 24216.75 | Desvio: 0.00% | Tempo: 193 ms
+	-> OptOr                     | SE: 22362.14 | Desvio: 0.00% | Tempo: 83 ms
+	-> OptK                      | SE: 25008.08 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 27113.30
+	-> LinKernighanHeuristic     | SE: 22728.15 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22788.25 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 23931.04 | Desvio: 0.00% | Tempo: 243 ms
+	-> OptOr                     | SE: 22604.55 | Desvio: 0.00% | Tempo: 103 ms
+	-> OptK                      | SE: 27113.30 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: kroE100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 27587.19
+	-> LinKernighanHeuristic     | SE: 24312.11 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 24312.11 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 24711.36 | Desvio: 0.00% | Tempo: 243 ms
+	-> OptOr                     | SE: 25282.07 | Desvio: 0.00% | Tempo: 64 ms
+	-> OptK                      | SE: 27587.19 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 168442.16
+	-> LinKernighanHeuristic     | SE: 24188.54 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 24689.86 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 26192.57 | Desvio: 0.00% | Tempo: 244 ms
+	-> OptOr                     | SE: 24640.58 | Desvio: 0.00% | Tempo: 269 ms
+	-> OptK                      | SE: 168442.16 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 23516.98
+	-> LinKernighanHeuristic     | SE: 22819.96 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 22819.96 | Desvio: 0.00% | Tempo: 7 ms
+	-> Opt3                      | SE: 22770.31 | Desvio: 0.00% | Tempo: 193 ms
+	-> OptOr                     | SE: 22562.54 | Desvio: 0.00% | Tempo: 24 ms
+	-> OptK                      | SE: 23516.98 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 24031.13
+	-> LinKernighanHeuristic     | SE: 23542.70 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23573.94 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 23878.62 | Desvio: 0.00% | Tempo: 147 ms
+	-> OptOr                     | SE: 22529.99 | Desvio: 0.00% | Tempo: 23 ms
+	-> OptK                      | SE: 24031.13 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 30507.42
+	-> LinKernighanHeuristic     | SE: 23528.46 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 23528.46 | Desvio: 0.00% | Tempo: 8 ms
+	-> Opt3                      | SE: 25244.11 | Desvio: 0.00% | Tempo: 145 ms
+	-> OptOr                     | SE: 24120.07 | Desvio: 0.00% | Tempo: 153 ms
+	-> OptK                      | SE: 30507.42 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: lin105.tsp ===
+[NearestNeighbor               ] Solução Inicial: 20362.76
+	-> LinKernighanHeuristic     | SE: 16199.70 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 16199.70 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 18306.70 | Desvio: 0.00% | Tempo: 233 ms
+	-> OptOr                     | SE: 16832.08 | Desvio: 0.00% | Tempo: 138 ms
+	-> OptK                      | SE: 20362.76 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 122236.94
+	-> LinKernighanHeuristic     | SE: 16005.26 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 15966.76 | Desvio: 0.00% | Tempo: 13 ms
+	-> Opt3                      | SE: 17110.96 | Desvio: 0.00% | Tempo: 292 ms
+	-> OptOr                     | SE: 18875.96 | Desvio: 0.00% | Tempo: 407 ms
+	-> OptK                      | SE: 118094.45 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 15411.96
+	-> LinKernighanHeuristic     | SE: 15279.70 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 15279.70 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 15329.09 | Desvio: 0.00% | Tempo: 117 ms
+	-> OptOr                     | SE: 14756.72 | Desvio: 0.00% | Tempo: 34 ms
+	-> OptK                      | SE: 15411.96 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 16600.32
+	-> LinKernighanHeuristic     | SE: 15625.55 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 15719.53 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 15277.31 | Desvio: 0.00% | Tempo: 293 ms
+	-> OptOr                     | SE: 14819.10 | Desvio: 0.00% | Tempo: 48 ms
+	-> OptK                      | SE: 16600.32 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 19893.78
+	-> LinKernighanHeuristic     | SE: 15643.34 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 15738.81 | Desvio: 0.00% | Tempo: 11 ms
+	-> Opt3                      | SE: 16683.35 | Desvio: 0.00% | Tempo: 233 ms
+	-> OptOr                     | SE: 16224.80 | Desvio: 0.00% | Tempo: 135 ms
+	-> OptK                      | SE: 19893.78 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr107.tsp ===
+[NearestNeighbor               ] Solução Inicial: 50519.13
+	-> LinKernighanHeuristic     | SE: 45252.18 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 45252.18 | Desvio: 0.00% | Tempo: 11 ms
+	-> Opt3                      | SE: 48219.83 | Desvio: 0.00% | Tempo: 189 ms
+	-> OptOr                     | SE: 46761.18 | Desvio: 0.00% | Tempo: 96 ms
+	-> OptK                      | SE: 50519.13 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 570415.26
+	-> LinKernighanHeuristic     | SE: 47102.30 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 47226.25 | Desvio: 0.00% | Tempo: 11 ms
+	-> Opt3                      | SE: 55133.12 | Desvio: 0.00% | Tempo: 315 ms
+	-> OptOr                     | SE: 53449.26 | Desvio: 0.00% | Tempo: 319 ms
+	-> OptK                      | SE: 567692.66 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 45742.53
+	-> LinKernighanHeuristic     | SE: 45273.26 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 45273.26 | Desvio: 0.00% | Tempo: 5 ms
+	-> Opt3                      | SE: 45742.53 | Desvio: 0.00% | Tempo: 63 ms
+	-> OptOr                     | SE: 44638.88 | Desvio: 0.00% | Tempo: 31 ms
+	-> OptK                      | SE: 45742.53 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 49814.05
+	-> LinKernighanHeuristic     | SE: 46618.76 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 46618.76 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 46036.14 | Desvio: 0.00% | Tempo: 566 ms
+	-> OptOr                     | SE: 45978.98 | Desvio: 0.00% | Tempo: 115 ms
+	-> OptK                      | SE: 49814.05 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 53053.69
+	-> LinKernighanHeuristic     | SE: 44635.45 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 44960.78 | Desvio: 0.00% | Tempo: 5 ms
+	-> Opt3                      | SE: 51687.75 | Desvio: 0.00% | Tempo: 126 ms
+	-> OptOr                     | SE: 49005.25 | Desvio: 0.00% | Tempo: 98 ms
+	-> OptK                      | SE: 53053.69 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr124.tsp ===
+[NearestNeighbor               ] Solução Inicial: 71803.15
+	-> LinKernighanHeuristic     | SE: 60494.49 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 60494.49 | Desvio: 0.00% | Tempo: 15 ms
+	-> Opt3                      | SE: 64692.44 | Desvio: 0.00% | Tempo: 334 ms
+	-> OptOr                     | SE: 62971.32 | Desvio: 0.00% | Tempo: 116 ms
+	-> OptK                      | SE: 71803.15 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 686955.83
+	-> LinKernighanHeuristic     | SE: 62376.66 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 61161.20 | Desvio: 0.00% | Tempo: 15 ms
+	-> Opt3                      | SE: 74858.47 | Desvio: 0.00% | Tempo: 552 ms
+	-> OptOr                     | SE: 68250.89 | Desvio: 0.00% | Tempo: 703 ms
+	-> OptK                      | SE: 686884.39 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 65729.02
+	-> LinKernighanHeuristic     | SE: 65729.02 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 65729.02 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 65729.02 | Desvio: 0.00% | Tempo: 110 ms
+	-> OptOr                     | SE: 62428.60 | Desvio: 0.00% | Tempo: 75 ms
+	-> OptK                      | SE: 65729.02 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 69335.86
+	-> LinKernighanHeuristic     | SE: 62616.56 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 62616.56 | Desvio: 0.00% | Tempo: 9 ms
+	-> Opt3                      | SE: 61394.96 | Desvio: 0.00% | Tempo: 664 ms
+	-> OptOr                     | SE: 62934.86 | Desvio: 0.00% | Tempo: 66 ms
+	-> OptK                      | SE: 69335.86 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 74440.96
+	-> LinKernighanHeuristic     | SE: 62282.02 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 62282.02 | Desvio: 0.00% | Tempo: 12 ms
+	-> Opt3                      | SE: 65666.86 | Desvio: 0.00% | Tempo: 449 ms
+	-> OptOr                     | SE: 62812.84 | Desvio: 0.00% | Tempo: 211 ms
+	-> OptK                      | SE: 74440.96 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr136.tsp ===
+[NearestNeighbor               ] Solução Inicial: 120777.86
+	-> LinKernighanHeuristic     | SE: 106006.85 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 107942.59 | Desvio: 0.00% | Tempo: 16 ms
+	-> Opt3                      | SE: 112112.01 | Desvio: 0.00% | Tempo: 637 ms
+	-> OptOr                     | SE: 105694.49 | Desvio: 0.00% | Tempo: 211 ms
+	-> OptK                      | SE: 120777.86 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 825261.65
+	-> LinKernighanHeuristic     | SE: 104212.96 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 104212.96 | Desvio: 0.00% | Tempo: 20 ms
+	-> Opt3                      | SE: 105491.41 | Desvio: 0.00% | Tempo: 791 ms
+	-> OptOr                     | SE: 113259.54 | Desvio: 0.00% | Tempo: 1155 ms
+	-> OptK                      | SE: 825261.65 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 105298.09
+	-> LinKernighanHeuristic     | SE: 105296.35 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 105296.35 | Desvio: 0.00% | Tempo: 8 ms
+	-> Opt3                      | SE: 105298.09 | Desvio: 0.00% | Tempo: 158 ms
+	-> OptOr                     | SE: 104290.06 | Desvio: 0.00% | Tempo: 33 ms
+	-> OptK                      | SE: 105298.09 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 108181.82
+	-> LinKernighanHeuristic     | SE: 103048.65 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 103447.96 | Desvio: 0.00% | Tempo: 16 ms
+	-> Opt3                      | SE: 106894.14 | Desvio: 0.00% | Tempo: 474 ms
+	-> OptOr                     | SE: 101188.28 | Desvio: 0.00% | Tempo: 134 ms
+	-> OptK                      | SE: 108181.82 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 138116.84
+	-> LinKernighanHeuristic     | SE: 105790.68 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 105010.80 | Desvio: 0.00% | Tempo: 19 ms
+	-> Opt3                      | SE: 106961.12 | Desvio: 0.00% | Tempo: 787 ms
+	-> OptOr                     | SE: 105828.29 | Desvio: 0.00% | Tempo: 455 ms
+	-> OptK                      | SE: 138116.84 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr144.tsp ===
+[NearestNeighbor               ] Solução Inicial: 61650.72
+	-> LinKernighanHeuristic     | SE: 61243.80 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 61243.80 | Desvio: 0.00% | Tempo: 14 ms
+	-> Opt3                      | SE: 61650.72 | Desvio: 0.00% | Tempo: 196 ms
+	-> OptOr                     | SE: 59368.57 | Desvio: 0.00% | Tempo: 102 ms
+	-> OptK                      | SE: 61650.72 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 798517.60
+	-> LinKernighanHeuristic     | SE: 62947.94 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 61486.28 | Desvio: 0.00% | Tempo: 31 ms
+	-> Opt3                      | SE: 68773.48 | Desvio: 0.00% | Tempo: 981 ms
+	-> OptOr                     | SE: 82530.14 | Desvio: 0.00% | Tempo: 1361 ms
+	-> OptK                      | SE: 798517.60 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 61972.28
+	-> LinKernighanHeuristic     | SE: 61647.14 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 61647.14 | Desvio: 0.00% | Tempo: 14 ms
+	-> Opt3                      | SE: 61972.28 | Desvio: 0.00% | Tempo: 195 ms
+	-> OptOr                     | SE: 61544.99 | Desvio: 0.00% | Tempo: 101 ms
+	-> OptK                      | SE: 61972.28 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 70705.92
+	-> LinKernighanHeuristic     | SE: 61193.33 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 66556.37 | Desvio: 0.00% | Tempo: 14 ms
+	-> Opt3                      | SE: 65929.02 | Desvio: 0.00% | Tempo: 782 ms
+	-> OptOr                     | SE: 65217.91 | Desvio: 0.00% | Tempo: 231 ms
+	-> OptK                      | SE: 70705.92 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 80596.32
+	-> LinKernighanHeuristic     | SE: 68545.53 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 62947.38 | Desvio: 0.00% | Tempo: 23 ms
+	-> Opt3                      | SE: 60622.21 | Desvio: 0.00% | Tempo: 978 ms
+	-> OptOr                     | SE: 76926.91 | Desvio: 0.00% | Tempo: 205 ms
+	-> OptK                      | SE: 80596.32 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr152.tsp ===
+[NearestNeighbor               ] Solução Inicial: 85702.95
+	-> LinKernighanHeuristic     | SE: 77862.01 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 77670.19 | Desvio: 0.00% | Tempo: 31 ms
+	-> Opt3                      | SE: 83066.22 | Desvio: 0.00% | Tempo: 725 ms
+	-> OptOr                     | SE: 77329.44 | Desvio: 0.00% | Tempo: 414 ms
+	-> OptK                      | SE: 85702.95 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 1029775.50
+	-> LinKernighanHeuristic     | SE: 80161.80 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 78522.89 | Desvio: 0.00% | Tempo: 32 ms
+	-> Opt3                      | SE: 88872.81 | Desvio: 0.00% | Tempo: 1449 ms
+	-> OptOr                     | SE: 95712.02 | Desvio: 0.00% | Tempo: 1787 ms
+	-> OptK                      | SE: 1008975.97 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 76361.00
+	-> LinKernighanHeuristic     | SE: 75398.37 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 75398.37 | Desvio: 0.00% | Tempo: 16 ms
+	-> Opt3                      | SE: 76344.77 | Desvio: 0.00% | Tempo: 482 ms
+	-> OptOr                     | SE: 75039.88 | Desvio: 0.00% | Tempo: 32 ms
+	-> OptK                      | SE: 76361.00 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 86144.46
+	-> LinKernighanHeuristic     | SE: 77704.21 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 77704.21 | Desvio: 0.00% | Tempo: 21 ms
+	-> Opt3                      | SE: 81575.61 | Desvio: 0.00% | Tempo: 964 ms
+	-> OptOr                     | SE: 77441.11 | Desvio: 0.00% | Tempo: 370 ms
+	-> OptK                      | SE: 86144.46 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 85976.98
+	-> LinKernighanHeuristic     | SE: 75378.84 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 75630.85 | Desvio: 0.00% | Tempo: 48 ms
+	-> Opt3                      | SE: 84373.35 | Desvio: 0.00% | Tempo: 963 ms
+	-> OptOr                     | SE: 77101.75 | Desvio: 0.00% | Tempo: 224 ms
+	-> OptK                      | SE: 85976.98 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr226.tsp ===
+[NearestNeighbor               ] Solução Inicial: 95713.92
+	-> LinKernighanHeuristic     | SE: 83464.12 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 83311.61 | Desvio: 0.00% | Tempo: 86 ms
+	-> Opt3                      | SE: 89448.07 | Desvio: 0.00% | Tempo: 7212 ms
+	-> OptOr                     | SE: 84584.42 | Desvio: 0.00% | Tempo: 1601 ms
+	-> OptK                      | SE: 95713.92 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 1728232.78
+	-> LinKernighanHeuristic     | SE: 82946.76 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 87367.85 | Desvio: 0.00% | Tempo: 125 ms
+	-> Opt3                      | SE: 90194.73 | Desvio: 0.00% | Tempo: 8256 ms
+	-> OptOr                     | SE: 105016.32 | Desvio: 0.00% | Tempo: 5740 ms
+	-> OptK                      | SE: 1720739.89 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 84124.49
+	-> LinKernighanHeuristic     | SE: 82779.42 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 82779.42 | Desvio: 0.00% | Tempo: 71 ms
+	-> Opt3                      | SE: 83016.43 | Desvio: 0.00% | Tempo: 4693 ms
+	-> OptOr                     | SE: 81414.06 | Desvio: 0.00% | Tempo: 477 ms
+	-> OptK                      | SE: 84124.49 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 97595.76
+	-> LinKernighanHeuristic     | SE: 85563.03 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 93190.92 | Desvio: 0.00% | Tempo: 89 ms
+	-> Opt3                      | SE: 90723.16 | Desvio: 0.00% | Tempo: 6611 ms
+	-> OptOr                     | SE: 93729.77 | Desvio: 0.00% | Tempo: 741 ms
+	-> OptK                      | SE: 97595.76 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 118209.33
+	-> LinKernighanHeuristic     | SE: 87296.41 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 87296.41 | Desvio: 0.00% | Tempo: 84 ms
+	-> Opt3                      | SE: 88952.36 | Desvio: 0.00% | Tempo: 6614 ms
+	-> OptOr                     | SE: 102210.70 | Desvio: 0.00% | Tempo: 3197 ms
+	-> OptK                      | SE: 118209.33 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr264.tsp ===
+[NearestNeighbor               ] Solução Inicial: 58022.86
+	-> LinKernighanHeuristic     | SE: 52848.89 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 53526.96 | Desvio: 0.00% | Tempo: 161 ms
+	-> Opt3                      | SE: 57779.04 | Desvio: 0.00% | Tempo: 3995 ms
+	-> OptOr                     | SE: 54624.35 | Desvio: 0.00% | Tempo: 1855 ms
+	-> OptK                      | SE: 58022.86 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 1115605.29
+	-> LinKernighanHeuristic     | SE: 53619.82 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 54053.45 | Desvio: 0.00% | Tempo: 188 ms
+	-> Opt3                      | SE: 58759.09 | Desvio: 0.00% | Tempo: 15970 ms
+	-> OptOr                     | SE: 89980.35 | Desvio: 0.00% | Tempo: 11327 ms
+	-> OptK                      | SE: 1115605.29 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 55063.04
+	-> LinKernighanHeuristic     | SE: 54519.67 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 54519.67 | Desvio: 0.00% | Tempo: 54 ms
+	-> Opt3                      | SE: 54812.53 | Desvio: 0.00% | Tempo: 5998 ms
+	-> OptOr                     | SE: 52983.80 | Desvio: 0.00% | Tempo: 1426 ms
+	-> OptK                      | SE: 55063.04 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 60997.06
+	-> LinKernighanHeuristic     | SE: 51880.68 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 51880.68 | Desvio: 0.00% | Tempo: 135 ms
+	-> Opt3                      | SE: 54257.88 | Desvio: 0.00% | Tempo: 8003 ms
+	-> OptOr                     | SE: 52887.96 | Desvio: 0.00% | Tempo: 3696 ms
+	-> OptK                      | SE: 60997.06 | Desvio: 0.00% | Tempo: 1 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 67246.18
+	-> LinKernighanHeuristic     | SE: 57050.46 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 57134.67 | Desvio: 0.00% | Tempo: 134 ms
+	-> Opt3                      | SE: 58660.17 | Desvio: 0.00% | Tempo: 12009 ms
+	-> OptOr                     | SE: 57134.13 | Desvio: 0.00% | Tempo: 4009 ms
+	-> OptK                      | SE: 67246.18 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: pr299.tsp ===
+[NearestNeighbor               ] Solução Inicial: 62523.38
+	-> LinKernighanHeuristic     | SE: 53507.02 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 54996.77 | Desvio: 0.00% | Tempo: 153 ms
+	-> Opt3                      | SE: 53139.79 | Desvio: 0.00% | Tempo: 16096 ms
+	-> OptOr                     | SE: 54630.43 | Desvio: 0.00% | Tempo: 6600 ms
+	-> OptK                      | SE: 62523.38 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 771521.12
+	-> LinKernighanHeuristic     | SE: 51916.43 | Desvio: 0.00% | Tempo: 2 ms
+	-> Opt2                      | SE: 54096.12 | Desvio: 0.00% | Tempo: 267 ms
+	-> Opt3                      | SE: 57546.98 | Desvio: 0.00% | Tempo: 32276 ms
+	-> OptOr                     | SE: 56918.23 | Desvio: 0.00% | Tempo: 27726 ms
+	-> OptK                      | SE: 771521.12 | Desvio: 0.00% | Tempo: 1 ms
+[FarthestInsertion             ] Solução Inicial: 52012.19
+	-> LinKernighanHeuristic     | SE: 51537.26 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 51262.09 | Desvio: 0.00% | Tempo: 161 ms
+	-> Opt3                      | SE: 51388.73 | Desvio: 0.00% | Tempo: 13823 ms
+	-> OptOr                     | SE: 50591.71 | Desvio: 0.00% | Tempo: 1133 ms
+	-> OptK                      | SE: 52012.19 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 56674.70
+	-> LinKernighanHeuristic     | SE: 54072.95 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 53539.35 | Desvio: 0.00% | Tempo: 203 ms
+	-> Opt3                      | SE: 54818.47 | Desvio: 0.00% | Tempo: 10122 ms
+	-> OptOr                     | SE: 52937.99 | Desvio: 0.00% | Tempo: 2347 ms
+	-> OptK                      | SE: 56674.70 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 63569.24
+	-> LinKernighanHeuristic     | SE: 54028.05 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 54022.45 | Desvio: 0.00% | Tempo: 200 ms
+	-> Opt3                      | SE: 54168.91 | Desvio: 0.00% | Tempo: 13483 ms
+	-> OptOr                     | SE: 55283.35 | Desvio: 0.00% | Tempo: 6041 ms
+	-> OptK                      | SE: 63569.24 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: rat195.tsp ===
+[NearestNeighbor               ] Solução Inicial: 2761.96
+	-> LinKernighanHeuristic     | SE: 2489.73 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2489.92 | Desvio: 0.00% | Tempo: 58 ms
+	-> Opt3                      | SE: 2529.52 | Desvio: 0.00% | Tempo: 2626 ms
+	-> OptOr                     | SE: 2536.27 | Desvio: 0.00% | Tempo: 913 ms
+	-> OptK                      | SE: 2761.96 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 22765.42
+	-> LinKernighanHeuristic     | SE: 2682.96 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 2710.67 | Desvio: 0.00% | Tempo: 82 ms
+	-> Opt3                      | SE: 2826.66 | Desvio: 0.00% | Tempo: 6563 ms
+	-> OptOr                     | SE: 2769.31 | Desvio: 0.00% | Tempo: 3576 ms
+	-> OptK                      | SE: 22765.42 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 2599.67
+	-> LinKernighanHeuristic     | SE: 2588.52 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 2588.52 | Desvio: 0.00% | Tempo: 23 ms
+	-> Opt3                      | SE: 2589.10 | Desvio: 0.00% | Tempo: 1975 ms
+	-> OptOr                     | SE: 2509.47 | Desvio: 0.00% | Tempo: 345 ms
+	-> OptK                      | SE: 2599.67 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 2737.76
+	-> LinKernighanHeuristic     | SE: 2533.97 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 2561.91 | Desvio: 0.00% | Tempo: 46 ms
+	-> Opt3                      | SE: 2587.02 | Desvio: 0.00% | Tempo: 1976 ms
+	-> OptOr                     | SE: 2451.64 | Desvio: 0.00% | Tempo: 895 ms
+	-> OptK                      | SE: 2737.76 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 3216.05
+	-> LinKernighanHeuristic     | SE: 2520.74 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 2568.87 | Desvio: 0.00% | Tempo: 46 ms
+	-> Opt3                      | SE: 2628.29 | Desvio: 0.00% | Tempo: 2634 ms
+	-> OptOr                     | SE: 2521.32 | Desvio: 0.00% | Tempo: 1638 ms
+	-> OptK                      | SE: 3216.05 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: rd100.tsp ===
+[NearestNeighbor               ] Solução Inicial: 9941.16
+	-> LinKernighanHeuristic     | SE: 8553.76 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 8255.74 | Desvio: 0.00% | Tempo: 10 ms
+	-> Opt3                      | SE: 9019.72 | Desvio: 0.00% | Tempo: 253 ms
+	-> OptOr                     | SE: 8739.84 | Desvio: 0.00% | Tempo: 119 ms
+	-> OptK                      | SE: 9941.16 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 56819.42
+	-> LinKernighanHeuristic     | SE: 8389.72 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 8720.66 | Desvio: 0.00% | Tempo: 13 ms
+	-> Opt3                      | SE: 9028.11 | Desvio: 0.00% | Tempo: 457 ms
+	-> OptOr                     | SE: 9423.55 | Desvio: 0.00% | Tempo: 228 ms
+	-> OptK                      | SE: 55859.36 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 8947.95
+	-> LinKernighanHeuristic     | SE: 8840.49 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 8840.49 | Desvio: 0.00% | Tempo: 3 ms
+	-> Opt3                      | SE: 8947.95 | Desvio: 0.00% | Tempo: 50 ms
+	-> OptOr                     | SE: 8720.94 | Desvio: 0.00% | Tempo: 37 ms
+	-> OptK                      | SE: 8947.95 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 8904.47
+	-> LinKernighanHeuristic     | SE: 8741.91 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 8741.91 | Desvio: 0.00% | Tempo: 4 ms
+	-> Opt3                      | SE: 8738.87 | Desvio: 0.00% | Tempo: 152 ms
+	-> OptOr                     | SE: 8295.96 | Desvio: 0.00% | Tempo: 73 ms
+	-> OptK                      | SE: 8904.47 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 10791.66
+	-> LinKernighanHeuristic     | SE: 9037.06 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 8872.15 | Desvio: 0.00% | Tempo: 6 ms
+	-> Opt3                      | SE: 9086.85 | Desvio: 0.00% | Tempo: 153 ms
+	-> OptOr                     | SE: 9000.86 | Desvio: 0.00% | Tempo: 135 ms
+	-> OptK                      | SE: 10791.66 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: ts225.tsp ===
+[NearestNeighbor               ] Solução Inicial: 155806.65
+	-> LinKernighanHeuristic     | SE: 133600.49 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 134211.64 | Desvio: 0.00% | Tempo: 70 ms
+	-> Opt3                      | SE: 147964.32 | Desvio: 0.00% | Tempo: 3411 ms
+	-> OptOr                     | SE: 142404.61 | Desvio: 0.00% | Tempo: 880 ms
+	-> OptK                      | SE: 155806.65 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 1622171.89
+	-> LinKernighanHeuristic     | SE: 139448.47 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 143021.99 | Desvio: 0.00% | Tempo: 86 ms
+	-> Opt3                      | SE: 163626.30 | Desvio: 0.00% | Tempo: 5633 ms
+	-> OptOr                     | SE: 140680.09 | Desvio: 0.00% | Tempo: 3584 ms
+	-> OptK                      | SE: 1615292.10 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 142605.95
+	-> LinKernighanHeuristic     | SE: 142605.95 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 142605.95 | Desvio: 0.00% | Tempo: 34 ms
+	-> Opt3                      | SE: 141582.80 | Desvio: 0.00% | Tempo: 2247 ms
+	-> OptOr                     | SE: 141313.69 | Desvio: 0.00% | Tempo: 457 ms
+	-> OptK                      | SE: 142605.95 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 144217.09
+	-> LinKernighanHeuristic     | SE: 132552.83 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 131853.85 | Desvio: 0.00% | Tempo: 69 ms
+	-> Opt3                      | SE: 129587.01 | Desvio: 0.00% | Tempo: 3367 ms
+	-> OptOr                     | SE: 135503.37 | Desvio: 0.00% | Tempo: 934 ms
+	-> OptK                      | SE: 144217.09 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 190658.57
+	-> LinKernighanHeuristic     | SE: 139375.34 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 138592.71 | Desvio: 0.00% | Tempo: 86 ms
+	-> Opt3                      | SE: 152282.66 | Desvio: 0.00% | Tempo: 5687 ms
+	-> OptOr                     | SE: 151515.32 | Desvio: 0.00% | Tempo: 3291 ms
+	-> OptK                      | SE: 190658.57 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: tsp225.tsp ===
+[NearestNeighbor               ] Solução Inicial: 4786.42
+	-> LinKernighanHeuristic     | SE: 4163.03 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 4163.03 | Desvio: 0.00% | Tempo: 88 ms
+	-> Opt3                      | SE: 4335.05 | Desvio: 0.00% | Tempo: 3422 ms
+	-> OptOr                     | SE: 4249.55 | Desvio: 0.00% | Tempo: 1897 ms
+	-> OptK                      | SE: 4786.42 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 38987.23
+	-> LinKernighanHeuristic     | SE: 4296.33 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 4359.52 | Desvio: 0.00% | Tempo: 88 ms
+	-> Opt3                      | SE: 4612.29 | Desvio: 0.00% | Tempo: 9077 ms
+	-> OptOr                     | SE: 4660.21 | Desvio: 0.00% | Tempo: 7828 ms
+	-> OptK                      | SE: 38987.23 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 4298.23
+	-> LinKernighanHeuristic     | SE: 4223.00 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 4223.00 | Desvio: 0.00% | Tempo: 52 ms
+	-> Opt3                      | SE: 4284.47 | Desvio: 0.00% | Tempo: 3425 ms
+	-> OptOr                     | SE: 4111.29 | Desvio: 0.00% | Tempo: 1099 ms
+	-> OptK                      | SE: 4298.23 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 4714.68
+	-> LinKernighanHeuristic     | SE: 4312.02 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 4349.42 | Desvio: 0.00% | Tempo: 54 ms
+	-> Opt3                      | SE: 4500.09 | Desvio: 0.00% | Tempo: 4738 ms
+	-> OptOr                     | SE: 4218.19 | Desvio: 0.00% | Tempo: 1660 ms
+	-> OptK                      | SE: 4714.68 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 5111.73
+	-> LinKernighanHeuristic     | SE: 4196.05 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 4196.05 | Desvio: 0.00% | Tempo: 86 ms
+	-> Opt3                      | SE: 4231.82 | Desvio: 0.00% | Tempo: 5593 ms
+	-> OptOr                     | SE: 4170.20 | Desvio: 0.00% | Tempo: 2893 ms
+	-> OptK                      | SE: 5111.73 | Desvio: 0.00% | Tempo: 0 ms
+
+=== Problema: u159.tsp ===
+[NearestNeighbor               ] Solução Inicial: 53737.89
+	-> LinKernighanHeuristic     | SE: 48204.44 | Desvio: 0.00% | Tempo: 1 ms
+	-> Opt2                      | SE: 47903.92 | Desvio: 0.00% | Tempo: 25 ms
+	-> Opt3                      | SE: 47803.96 | Desvio: 0.00% | Tempo: 1546 ms
+	-> OptOr                     | SE: 47786.81 | Desvio: 0.00% | Tempo: 450 ms
+	-> OptK                      | SE: 53737.89 | Desvio: 0.00% | Tempo: 0 ms
+[RandomPathConstruction        ] Solução Inicial: 446580.37
+	-> LinKernighanHeuristic     | SE: 46688.89 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 48099.55 | Desvio: 0.00% | Tempo: 25 ms
+	-> Opt3                      | SE: 52346.85 | Desvio: 0.00% | Tempo: 2326 ms
+	-> OptOr                     | SE: 52707.18 | Desvio: 0.00% | Tempo: 987 ms
+	-> OptK                      | SE: 443106.39 | Desvio: 0.00% | Tempo: 0 ms
+[FarthestInsertion             ] Solução Inicial: 46479.61
+	-> LinKernighanHeuristic     | SE: 46267.74 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 46267.74 | Desvio: 0.00% | Tempo: 18 ms
+	-> Opt3                      | SE: 46403.29 | Desvio: 0.00% | Tempo: 583 ms
+	-> OptOr                     | SE: 45646.67 | Desvio: 0.00% | Tempo: 177 ms
+	-> OptK                      | SE: 46479.61 | Desvio: 0.00% | Tempo: 0 ms
+[CheapestInsertion             ] Solução Inicial: 51120.72
+	-> LinKernighanHeuristic     | SE: 47651.39 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 47651.39 | Desvio: 0.00% | Tempo: 36 ms
+	-> Opt3                      | SE: 47222.60 | Desvio: 0.00% | Tempo: 1169 ms
+	-> OptOr                     | SE: 46118.94 | Desvio: 0.00% | Tempo: 342 ms
+	-> OptK                      | SE: 51120.72 | Desvio: 0.00% | Tempo: 0 ms
+[MinimumSpanningTreeHeuristic  ] Solução Inicial: 57316.69
+	-> LinKernighanHeuristic     | SE: 44970.82 | Desvio: 0.00% | Tempo: 0 ms
+	-> Opt2                      | SE: 44708.20 | Desvio: 0.00% | Tempo: 36 ms
+	-> Opt3                      | SE: 46934.33 | Desvio: 0.00% | Tempo: 1163 ms
+	-> OptOr                     | SE: 48219.63 | Desvio: 0.00% | Tempo: 591 ms
+	-> OptK                      | SE: 57316.69 | Desvio: 0.00% | Tempo: 0 ms

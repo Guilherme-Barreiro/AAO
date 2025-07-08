@@ -1,0 +1,30 @@
+
+=== a280.tsp ===
+Custo inicial: 2818.62
+	Opt3_BestImprovement      | SE: 2800.91 | Δ: -0.63% | Tempo: 22753 ms
+	Opt3_FirstImprovement     | SE: 2807.71 | Δ: -0.39% | Tempo: 12465 ms
+
+=== bier127.tsp ===
+Custo inicial: 393998.28
+	Opt3_BestImprovement      | SE: 135030.66 | Δ: -65.73% | Tempo: 18031 ms
+	Opt3_FirstImprovement     | SE: 138981.01 | Δ: -64.73% | Tempo: 1225 ms
+
+=== ch130.tsp ===
+Custo inicial: 47800.78
+	Opt3_BestImprovement      | SE: 6741.40 | Δ: -85.90% | Tempo: 23652 ms
+	Opt3_FirstImprovement     | SE: 6876.17 | Δ: -85.61% | Tempo: 1123 ms
+
+=== ch150.tsp ===
+Custo inicial: 52812.15
+	Opt3_BestImprovement      | SE: 7779.72 | Δ: -85.27% | Tempo: 49108 ms
+	Opt3_FirstImprovement     | SE: 7495.35 | Δ: -85.81% | Tempo: 3096 ms
+
+=== d198.tsp ===
+Custo inicial: 22514.12
+	Opt3_BestImprovement      | SE: 17898.57 | Δ: -20.50% | Tempo: 82604 ms
+	Opt3_FirstImprovement     | SE: 17839.68 | Δ: -20.76% | Tempo: 6655 ms
+
+=== eil101.tsp ===
+Custo inicial: 2064.49
+	Opt3_BestImprovement      | SE: 684.85 | Δ: -66.83% | Tempo: 6238 ms
+	Opt3_FirstImprovement     | SE: 730.59 | Δ: -64.61% | Tempo: 343 ms
